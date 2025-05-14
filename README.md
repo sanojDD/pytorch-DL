@@ -1,4 +1,4 @@
-# pytorch-fot-ML-DL
+# pytorch-fot-DL
 A complete repo for the pytorch for Deep Learning
 
 # PyTorch for Machine Learning and Deep Learning
