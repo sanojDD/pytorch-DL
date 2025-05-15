@@ -1,9 +1,9 @@
-# pytorch-fot-ML-DL
+# pytorch-for-DL
 A complete repo for the pytorch for Deep Learning
 
-# PyTorch for Machine Learning and Deep Learning
+# PyTorch for Deep Learning
 
-This repository is dedicated to my journey of learning **PyTorch** for machine learning (ML) and deep learning (DL). It contains various projects, tutorials, and experiments that I undertake as I explore different concepts and applications of PyTorch.
+This repository is dedicated to my journey of learning **PyTorch** for machine learning (ML) / deep learning (DL). It contains various projects, tutorials, and experiments that I undertake as I explore different concepts and applications of PyTorch.
 
 ## Overview
 
